@@ -1,8 +1,8 @@
 import numpy as np
 
 # Define the pole coordinates (in degrees)
-POLE_LAT = -59.682122
-POLE_LON = 41.353914
+POLE_LAT = 59.682122
+POLE_LON = -138.646087
 
 # Convert pole coordinates to radians for calculations
 pole_lat_rad = POLE_LAT * np.pi / 180
